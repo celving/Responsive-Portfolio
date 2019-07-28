@@ -79,7 +79,7 @@ p{
 
 }
 
-.galleryImagesTopLeft {
+.galleryImagesOne {
     float: left;
     margin: 30px 0px 20px 50px;
     height: 240px;
@@ -87,7 +87,7 @@ p{
     position: relative;
 }
 
-.galleryImagesMiddleLeft {
+.galleryImagesThree {
     float: left;
     margin: 20px 0px 20px 50px;
     height: 240px;
@@ -95,7 +95,7 @@ p{
     position: relative;
 }
 
-.galleryImagesBottomLeft {
+.galleryImagesFive {
     float: left;
     margin: 20px 0px 90px 50px;
     height: 240px;
@@ -103,7 +103,7 @@ p{
     position: relative;
 }
 
-.galleryImagesTopRight {
+.galleryImagesTwo {
     float: right;
     margin: 30px 50px 20px 0px;
     height: 240px;
@@ -111,7 +111,15 @@ p{
     position: relative;
 }
 
-.galleryImagesBottomRight{
+.galleryImagesFour{
+    float: right;
+    margin: 20px 50px 20px 0px;
+    height: 240px;
+    width: 360px;
+    position: relative;
+}
+
+.galleryImagesSix {
     float: right;
     margin: 20px 50px 20px 0px;
     height: 240px;
